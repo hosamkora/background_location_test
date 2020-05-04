@@ -1,0 +1,30 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/.classpath": false,
+        "**/.factorypath": false,
+        "**/.project": false,
+        "**/.settings": false,
+        "**/*.freezed.dart": false,
+        "**/*.g.dart": false,
+        "**/*.iconfig.dart": false
+    },
+    "explorerExclude.backup": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.classpath": false,
+        "**/.factorypath": false,
+        "**/.project": false,
+        "**/.settings": false,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true,
+        "**/*.iconfig.dart": true
+    }
+}
